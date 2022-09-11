@@ -14,8 +14,8 @@
 
 ## Installation
 ```bash
-git clone https://github.com/yurijGagarin/Cardmanager.git
-cd DataOX
+git clone https://github.com/yurijGagarin/data_ox_test_task.git
+cd data_ox_test_task
 cp .env.example .env
 # edit .env
 ```
